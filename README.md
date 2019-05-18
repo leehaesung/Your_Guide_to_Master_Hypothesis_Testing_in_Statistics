@@ -2,6 +2,7 @@
 
 * [출처](https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/?utm_source=blog&utm_medium=statistics-t-test-introduction-r-implementation)
 * [저자](https://www.analyticsvidhya.com/blog/author/sunil-ray/)
+* 구글번역
 
 ### 소개 - 사고 방식의 차이
 저는 MIS 전문가로서 경력을 쌓기 시작한 후 BI (비즈니스 인텔리전스), 비즈니스 분석, 통계 모델링 및 최근에는 기계 학습으로 나아갔습니다. 이러한 각각의 전환은 데이터를 보는 방법에 대한 생각을 바꾸기 위해 필요했습니다.
