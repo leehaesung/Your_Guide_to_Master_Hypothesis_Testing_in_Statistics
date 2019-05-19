@@ -1,4 +1,4 @@
-# 통계에서 가설 테스트 마스터하기 가이드
+# 통계에서 가설검정 마스터하기 가이드
 
 * [출처](https://www.analyticsvidhya.com/blog/2015/09/hypothesis-testing-explained/?utm_source=blog&utm_medium=statistics-t-test-introduction-r-implementation)
 * [저자](https://www.analyticsvidhya.com/blog/author/sunil-ray/)
